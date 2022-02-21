@@ -1,0 +1,31 @@
+{
+  "Version": 1,
+  "ProjectMap": {
+    "7d8057b1-5d29-4c83-ae05-e787b90922ec": {
+      "ProjectGuid": "7d8057b1-5d29-4c83-ae05-e787b90922ec",
+      "DisplayName": "OrderApi",
+      "ColorIndex": 0
+    },
+    "a2fe74e1-b743-11d0-ae1a-00a0c90fffc3": {
+      "ProjectGuid": "a2fe74e1-b743-11d0-ae1a-00a0c90fffc3",
+      "DisplayName": "Miscellaneous Files",
+      "ColorIndex": -1
+    },
+    "8cf0aacf-985f-4288-873c-af8fd2e83daa": {
+      "ProjectGuid": "8cf0aacf-985f-4288-873c-af8fd2e83daa",
+      "DisplayName": "KafkaService",
+      "ColorIndex": 1
+    },
+    "42f00e75-c935-4771-8560-9af73dea4f9a": {
+      "ProjectGuid": "42f00e75-c935-4771-8560-9af73dea4f9a",
+      "DisplayName": "PaymentAPI",
+      "ColorIndex": 2
+    },
+    "1fb615ee-221f-4f17-9c15-cd32019b9ab4": {
+      "ProjectGuid": "1fb615ee-221f-4f17-9c15-cd32019b9ab4",
+      "DisplayName": "BusinessApplication",
+      "ColorIndex": 3
+    }
+  },
+  "NextColorIndex": 4
+}

@@ -1,0 +1,3 @@
+is_global = true
+build_property.RootNamespace = KafkaService
+build_property.ProjectDir = C:\Rajesh-Working\Samples\MicroservicesChoreography\KafkaService\

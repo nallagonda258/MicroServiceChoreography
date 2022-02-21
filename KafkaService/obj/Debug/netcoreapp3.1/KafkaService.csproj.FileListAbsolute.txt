@@ -1,0 +1,10 @@
+C:\Rajesh-Working\Samples\MicroservicesChoreography\KafkaService\bin\Debug\netcoreapp3.1\KafkaService.deps.json
+C:\Rajesh-Working\Samples\MicroservicesChoreography\KafkaService\bin\Debug\netcoreapp3.1\KafkaService.dll
+C:\Rajesh-Working\Samples\MicroservicesChoreography\KafkaService\bin\Debug\netcoreapp3.1\KafkaService.pdb
+C:\Rajesh-Working\Samples\MicroservicesChoreography\KafkaService\obj\Debug\netcoreapp3.1\KafkaService.GeneratedMSBuildEditorConfig.editorconfig
+C:\Rajesh-Working\Samples\MicroservicesChoreography\KafkaService\obj\Debug\netcoreapp3.1\KafkaService.AssemblyInfoInputs.cache
+C:\Rajesh-Working\Samples\MicroservicesChoreography\KafkaService\obj\Debug\netcoreapp3.1\KafkaService.AssemblyInfo.cs
+C:\Rajesh-Working\Samples\MicroservicesChoreography\KafkaService\obj\Debug\netcoreapp3.1\KafkaService.csproj.CoreCompileInputs.cache
+C:\Rajesh-Working\Samples\MicroservicesChoreography\KafkaService\obj\Debug\netcoreapp3.1\KafkaService.dll
+C:\Rajesh-Working\Samples\MicroservicesChoreography\KafkaService\obj\Debug\netcoreapp3.1\KafkaService.pdb
+C:\Rajesh-Working\Samples\MicroservicesChoreography\KafkaService\obj\Debug\netcoreapp3.1\KafkaService.csproj.AssemblyReference.cache
